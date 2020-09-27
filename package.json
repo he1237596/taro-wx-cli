@@ -1,0 +1,23 @@
+{
+  "name": "taro-wx-cli",
+  "version": "1.0.0",
+  "description": "脚手架：使用Taro框架开发wx小程序",
+  "main": "index.js",
+  "bin": {
+    "taro-wx-cli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/he1237596/taro-wx-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/he1237596/taro-wx-cli/issues"
+  },
+  "homepage": "https://github.com/he1237596/taro-wx-cli#readme"
+}
